@@ -1,4 +1,4 @@
-# Coinvertor - Currency Converter
+# Coinversor - Currency Converter
 
 Este proyecto es una aplicación de conversión de monedas que funciona con la API de Exchangerate. El usuario puede ingresar una moneda base, una moneda de destino y un monto para obtener la conversión utilizando las tasas de cambio actualizadas proporcionadas por la API.
 
